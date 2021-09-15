@@ -1,0 +1,114 @@
+API Name,Provider Name,Logo,Web2 Docs,Airnode Docs,Contact,Description,Category/Industry,Tags
+"*= N/A, **= multiple APIs",,,,,,,,
+ANU QRNG,ANU Quantum Optics Group,https://api3.org/img/alliance/logos/Quantum%20Random%20Numbers%20at%20ANU.svg,https://qrng.anu.edu.au/contact/api-documentation/,???,https://qrng.anu.edu.au/,"This API offers true random numbers to anyone on Web3. The random numbers are generated in real-time in our lab by measuring the quantum fluctuations of the vacuum. The vacuum is described very differently in the quantum physics and classical physics. In classical physics, a vacuum is considered as a space that is empty of matter or photons. Quantum physics however says that that same space resembles a sea of virtual particles appearing and disappearing all the time. This is because the vacuum still possesses a zero-point energy. Consequently, the electromagnetic field of the vacuum exhibits random fluctuations in phase and amplitude at all frequencies. By carefully measuring these fluctuations, we are able to generate ultra-high bandwidth random numbers.",Utility,"random, math, cryptography"
+,,,,,,,,
+*,0Chain,,https://api.0chain.net/,,https://0chain.net/,,,
+FOREX Quote API,1Forge,,https://1forge.com/api,,https://1forge.com/,"1Forge API provides real-time quote data (bid & ask) for 700+ Forex & Cryptocurrency pairs. By connecting directly to brokers and liquidity providers, we are able to provide data as fast as any ECN or brokerage. Depending on how active the market is, you can see price updates over 200 times per second for a single currency pair.",Banking & Finance,"capital markets, exchange data, forex"
+*,abatisens,,N/A,,https://www.abatisens.de/,,,
+Trade & Quote (TAQ) Minute Bars API,AlgoSeek,,N/A,,https://www.algoseek.com/contact.html,"Algoseek API provides access to historical intraday US market data offering the most comprehensive and detailed market data and analytics products in the financial industry covering equities, futures, options, cash forex and cryptocurrencies. Their data is built for quantitative trading and machine learning and also provides reference data including equity security master file, future security master file, equity adjustment factor, and full corporate events. ",Banking & Finance,"capital markets, pricing, exchange data"
+Ambee Weather API,Ambee,,https://www.getambee.com/api-documentation,,https://www.getambee.com/contact-expert,"Ambee Weather API enables your customers with high accuracy, real-time global and regional hyperlocal weather data. Ambee aggregates weather data from multiple sources combining on-ground sensors, satellite imagery and statistical inference to ensure accuracy and availability of the highest order",Environmental,"weather, air quality, pollution"
+Identity Authentication API,Authenticating.com,,https://docs.authenticating.com/,,https://authenticating.com/,"Authenticating.com Identity API enables worldwide identity authentication, KYC & AML compliance. Detect fraud - Stop identity theft.",Biotechnology,"facial recognition, KYC/AML, onboarding"
+The Authoritas SERP API,Authoritas,,https://www.authoritas.com/api-documentation/,,https://www.authoritas.com/contact/,"The Authoritas Keyword Ranking API allows you to make multiple simultaneous keyword requests to any major search engine worldwide. We have also built a classification model that analyses Google’s search intent as a proxy for user intent. We look at the prominence and order of the organic and paid SERP results, the Universal SERP results featured, the navigational elements and the types of ranking sites.",Communications,"social media, SERP, statistics"
+Base64.ai API,Base64.ai,,https://documenter.getpostman.com/view/10132588/SWT5hfdz#intro,,https://base64.ai/,"Base64.ai API is used to extract text, photos, and signaturesfrom all document types by using a scalable cloud solution that is flexible to work with any document type.You can automate existing business processes with a single API call.",Banking & Finance,"KYC/AML, text extraction, fraud prevention"
+Benzinga Market News API,Benzinga,,https://docs.benzinga.io/,,https://www.benzinga.com/apis/,"The Benzinga API gives investors access to these actionable insights through our top-tier data through our curated partner network. Benzinga’s market data leverages our industry experience and knowledge to deliver actionable news to our clients. Our alternative data partnerships are formed on the basis of robust, quality data that delivers leading indicators to clients. We pride ourselves on eliminating the noise through our news and forecasting the next mover through our alternative partnerships.",Media,"news, findata, sentiment"
+*,Bird,,,,,,,
+BitcoinAverage Price API,BitcoinAverage,,https://apiv2.bitcoinaverage.com/,,https://bitcoinaverage.com/,"The world's best and longest running Cryptocurrency price API provider. These APIs can be used to gather real-time, OHLC, volume and historical price data for the following Cryptocurrencies: Bitcoin (BTC), Bitcoin Cash (BCH), Litecoin (LTC), Ethereum (ETH), Dash (DASH), Ripple (XRP), Monero (XMR) plus many more.",Banking & Finance,"crypto, exchange data, pricing"
+BitcombineAPI,BitCombine,,https://api.bitcombine.io/swagger-ui-master/dist/index.html,,,"The Bitcombine API is the industry leading API for crypto trading, real-time & historical data collection, and exchange account management. Get orderbooks and ticker data, execute trades, make withdrawals, and check your balances across our growing list of 40 cryptocurrency exchanges with BitCombine's state-of-the-art crypto API.",Banking & Finance,"crypto, exchange data, pricing"
+BitMartAPI,BitMart,,https://developer-pro.bitmart.com/en/,,https://support.bmx.fund//hc/en-us,"The Bitmart API gives access to up-to-date crypto market quotations and spot/contract trading. Developers can choose their own way to query the market, trade or withdraw according to their usage scenarios and preferences.",Banking & Finance,"crypto, exchange data, trading"
+Blackout Rugby API,Blackout Rugby,,https://rugbyapi.docs.apiary.io/#,,https://www.blackoutrugby.com/game/help.about.php#page=contactus,"The Blackout Rugby API uses the RESTful architecture to provide game information such as team data, player data, and fixture data to 3rd party software applications. Developers can also update and manipulate game data via the API.",Entertainment,"gaming, sports, statistics"
+Bleumi Payments API,Bleumi,,https://api.bleumi.io/docs/,,https://bleumi.com/contact.html,"The Bleumi Payments API is a simple and powerful REST API to integrate Traditional (Credit/Debit Card, Alternative Payment Methods) and Crypto Currency (Bitcoin, Ethereum, Stablecoins) payments into your business or application.",Banking & Finance,"payments, crypto, institutional banking"
+Cryptotax API,Blockpit,,N/A,,https://help.blockpit.io/hc/en-us/categories/360002570794-API-keys-Depots,"Blockpit cryptotax API lets you track your crypto portfolio and file taxes in one place. After a one-time setup, you'll see all your transactions in a clearly arranged dashboard.",Banking & Finance,"tax, portfolio management, crypto"
+*,Bookmaker Ratings,,,,,,,
+SMS Gateway API,BulkSMS.com,,https://www.bulksms.com/developer/json/v1/#,,https://www.bulksms.com/contact/,"Easily SMS-enable your website, application or customer relationship management platform with our REST API. Our API supports Unicode and long messages, and allows for multiple web hooks to create and customise any workflow.",Communications,"text, CRM, messaging"
+"**Address, Email, and Phone Verification APIs",Byteplant,,https://www.address-validator.net/api.html - https://www.email-validator.net/api.html - https://www.phone-validator.net/api.html,,https://www.address-validator.net/contact.html,"Byteplant's postal Address Verification service allows you to validate and correct postal addresses from 240 countries world-wide. - Byteplant's email validation services will improve your sender reputation and delivery rates and reduce bounce rates at the same time. - Byteplant Phone Validator Reduces Fraud: Byteplant will help you spot any fraudulent sign-ups, reduces typos and errors: Their API allows users to correct their contact data immediately right at the point of sign-up, and maximize marketing ROI.",Communications,"email, address, verification"
+*,CAPTCHAs,,,,,,,
+Catallact API,Catallact,,N/A,,https://www.catallact.com/,"The Catallact API delivers On-chain analytics, Exchange data, Derivative metrics, DeFi tracking, and Original research",Banking & Finance,"crypto, exchange data, defi"
+Celitech Bee API,Celitech,,https://documenter.getpostman.com/view/6644894/TVYC8zEQ,,https://celitech.com/contact/,"Celitech wireless eSIM API enables your travel-related business to offer cellular data eSIMs and better engage with customers anywhere in the world. The proprietary eSIM API provides wireless data service that can be shared digitally (e.g. using QR codes) and programmed by location, time, size, speed, etc.",Communication,"marketing, cellular, VOIP"
+ChainEX API,ChainEX,,https://chainex.io/api,,https://support.chainex.io/,ChainEX API allows you to trade over 30 crypto market pairs with multiple order types. Their REST API makes full use of the site functionality.,Banking & Finance,"crypto, exchange data, pricing"
+Blockchain API,Chaingateway.io,,https://chaingateway.io/docs-ethereum,,https://chaingateway.io/support,"Chaingateway.io is a REST API which allows you automate interacting with the Ethereum and Tron blockchain. So, instead of using a wallet to manually send coins to many addresses, you can automate this process by using this solution. You can also use Chaingateway.io to securely store and manage ethereum funds of your users.",Banking & Finance,"fintech, crypto, payment"
+ChainRider API,ChainRider,,https://www.chainrider.io/docs/dash/,,https://www.chainrider.io/private/rest-api,"ChainRider API enables you to: register users for organization, install and instantiate smart contracts, submit transactions to the ledger, query transactions/blocks/ledger, etc.",Banking & Finance,"crypto, smart contract, "
+Cignals.io API,Cignals.io,,https://docs.cignals.io/#introduction,,https://cignals.io/,"The Cignals API can be used to access various endpoints, which can be helpful for developing automated, quantitative trading strategies. Because Cignals primarily focuses on volumetric and orderflow based trading tools (e.g. Volume Clustering/Footprint Charts, Advanced Volume Profile, etc), derived from market auction theory, their API reflects a similar approach.",Banking & Finance,"crypto, trading, "
+CityFALCON Financial News API,CityFALCON,,https://www.cityfalcon.com/products/api/financial-news,,https://www.cityfalcon.com/products/api/financial-news#contactus-form,"CityFALCON's Financial News API enables you to get up to 10,000 stories per API call for stocks, cryptocurrencies, commodities, private companies, foreign exchange, indices, people and more by name. ",Media,"news, sentiment, geolocation"
+ClimateAPI,ClimateKuul,,http://api.climatekuul.com/docs/,,https://www.climatekuul.com/contact,"ClimateAPI estimates carbon emissions of a particular transaction, can display the estimated emissions data to your customers, along with options to do something about it, and upon user confirmation, allocates the required number of emission offsets from a pool of vetted projects they've partnered with.",Environmental,"emissions, climate, travel"
+CloudSight API,CloudSight,,https://cloudsight.docs.apiary.io/#,,https://cloudsight.ai/contact,The CloudSight API is a simple REST API for understanding your images. Send an image and their AI solution instantly describes your images with human-like captions. Apply computer vision right out of the box to provide detailed and fine-grained object recognition will return a description of its contents.,Biotechnology,"object recognition, AI, "
+CoinMarketCal API,CoinMarketCal,,https://coinmarketcal.com/en/doc/redoc,,https://coinmarketcal.com/en/,"CoinMarketCal API provides access to crypto events data. The database features more than 6500 coins and 20000 events. Power your applications with accurate data, backtest your trading and investing strategies or build your own models using their comprehensive and trusted data.",Banking & Finance,"events, crypto"
+Coinpass API,coinpass.com,,N/A,,https://www.coinpass.com/en/contact,"Coinpass API provides you ""Exchange-as-a-Service"" tools enabling access to Onboarding, KYC and Trading all-in-one. You are able to choose from Bitcoin, Ethereum and other crypto-assets. Deposit, trade, and withdraw fiat & crypto.",Finance & Banking,"crypto, capital markets"
+Coinranking API,Coinranking,,https://developers.coinranking.com/api/documentation,,https://support.coinranking.com/article/50-how-to-contact-us,"Coinranking API enables access to accurate prices and trading volumes of tens of thousands of markets, coming from hundreds of exchanges including volume-weighted average prices of thousands of cryptocurrencies, as well as total and maximum supplies of every cryptocurrency they’ve listed.",Banking & Finance,"crypto, exchange data, trade volume"
+*,Credmark,,,,,,,
+,CryptoReview,,,,,,,
+,CSRHub,,,,,,,
+,CurrencyFreaks,,,,,,,
+,CustomWeather,,,,,,,
+,Data Sports Group,,,,,,,
+,Deribit,,,,,,,
+,Email Hippo,,,,,,,
+,EOD Historical Data,,,,,,,
+,ESG Enterprise Software,,,,,,,
+,Even Financial,,,,,,,
+,Ex Machina,,,,,,,
+,ExchangeRate-API,,,,,,,
+,Finage,,,,,,,
+,Finnhub,,,,,,,
+,Frankfurter,,,,,,,
+,FTX,,,,,,,
+,GameScorekeeper,,,,,,,
+,Geoapify,,,,,,,
+,GeoDB,,,,,,,
+,Global Datafeeds,,,,,,,
+,Goldbaum,,,,,,,
+,Healthy Tech Guy,,,,,,,
+,IDEX,,,,,,,
+,Interzoid,,,,,,,
+,IP Geolocation,,,,,,,
+,IPQualityScore,,,,,,,
+,Kaiko,,,,,,,
+,Kuna Exchange,,,,,,,
+,Litentry,,,,,,,
+,Logware,,,,,,,
+,Longtail Financial,,,,,,,
+,LunarCRUSH,,,,,,,
+,LuxFi,,,,,,,
+,Mantheos,,,,,,,
+,MarketCheck,,,,,,,
+,Melodie,,,,,,,
+,Meteostat,,,,,,,
+,minerstat,,,,,,,
+,Neobi,,,,,,,
+,NewChangeFX,,,,,,,
+,OptionRoom,,,,,,,
+,OpusData,,,,,,,
+,PickPoint,,,,,,,
+,Quadency,,,,,,,
+,Quantgo,,,,,,,
+,Railz,,,,,,,
+,RDA Index,,,,,,,
+,RoadGoat,,,,,,,
+,Rutter,,,,,,,
+,sanctions.io,,,,,,,
+,Sanction Scanner,,,,,,,
+,SandCage,,,,,,,
+,Scorce,,,,,,,
+,Searchbug,,,,,,,
+,sensenet,,,,,,,
+,ShipsDNA,,,,,,,
+,SimFin,,,,,,,
+,Social Animal,,,,,,,
+,Spoonacular,,,,,,,
+,Styvio,,,,,,,
+,Swift Email Verifier,,,,,,,
+,TelecomsXChange,,,,,,,
+,Terminal 49,,,,,,,
+,TrueWayAPI,,,,,,,
+,Twelve Data,,,,,,,
+,Unification,,,,,,,
+,Veriphone,,,,,,,
+,VIN Decoder,,,,,,,
+,Vinter,,,,,,,
+,VPNAPI.io,,,,,,,
+,Weather Source,,,,,,,
+,whoisfreaks,,,,,,,
+,Widgety,,,,,,,
+,Wikiroutes,,,,,,,
+,World Weather Online,,,,,,,
+,WxData,,,,,,,
+,Zabo,,,,,,,

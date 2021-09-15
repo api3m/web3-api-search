@@ -1,0 +1,14 @@
+{
+  "name": "api3-api-listing",
+  "version": "1.0.0",
+  "description": "Tools for managing API3 API listing data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "csv-parse": "^4.16.3",
+    "fs": "*"
+  }
+}

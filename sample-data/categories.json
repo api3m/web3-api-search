@@ -1,0 +1,18 @@
+[
+  {
+    "category": "Finance", 
+    "category_logo_url": "Alameda.svg"
+  }, 
+  {
+    "category": "Weather", 
+    "category_logo_url": "Alameda.svg"
+  },
+  {
+    "category": "Tech", 
+    "category_logo_url": "Alameda.svg"
+  }, 
+  {
+    "category": "Blockchain", 
+    "category_logo_url": "Alameda.svg"
+  } 
+]

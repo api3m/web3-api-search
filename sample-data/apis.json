@@ -1,0 +1,30 @@
+[
+    {
+        "name": "API Example",
+        "url_name": "api-example", 
+        "provider": "API Provider Name", 
+        "contact_provider_url": "www.apiprovider.com", 
+        "api_logo_url": "Alameda.svg", 
+        "documentation_url": "www.apiprovider.com/docs", 
+        "airnode_url": "www.apiprovider.com/airnode", 
+        "free_access_url": "www.apiprovider.com/free_access", 
+        "short_description": "API Example descriptions to use on the result list", 
+        "description": "Markdown enabled text description here could be used here",
+        "categories": [ "finance", "weather" ],
+        "tags": [ "North America", "balance", "ethereum", "algorithm", "performance" ]
+    },
+    {
+        "name": "API Example",
+        "url_name": "api-example", 
+        "provider": "API Provider Name", 
+        "contact_provider_url": "www.apiprovider.com", 
+        "api_logo_url": "Alameda.svg", 
+        "documentation_url": "www.apiprovider.com/docs", 
+        "airnode_url": "www.apiprovider.com/airnode", 
+        "free_access_url": "www.apiprovider.com/free_access", 
+        "short_description": "API Example descriptions to use on the result list", 
+        "description": "Markdown enabled text description here could be used here",
+        "categories": [ "finance", "weather" ],
+        "tags": [ "North America", "balance", "ethereum", "algorithm", "performance" ]
+    }   
+]
