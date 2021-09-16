@@ -33,7 +33,7 @@ for (const row of rows) {
         documentation_url: row['Web2 Docs'],
         airnode_url: row['Airnode Docs'],
         free_access_url: '',
-        short_description: row['Description'].substr(0, 64),
+        short_description: row['Description'].substr(0, 168),
         description: row['Description'],
         categories: [category],
         tags: row['Tags'].split(",").map(x => x.trim())
