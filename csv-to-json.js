@@ -57,6 +57,14 @@ for (const row of rows) {
 
 }
 
+for (let i = 0; i < categories.length; i++) {
+    const category = categories[i]
+    categories[i] = {
+        "category": category,
+        "category_logo_url": "triangles-404.png"
+    }
+}
+
 function writeJSON(filename, data) {
     fs.writeFileSync(filename, JSON.stringify(data), {
         encoding: "utf8",
