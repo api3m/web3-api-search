@@ -36,7 +36,7 @@ for (const row of rows) {
         short_description: row['Description'].substr(0, 168),
         description: row['Description'],
         categories: [category],
-        tags: row['Tags'].split(",").map(x => x.trim())
+        tags: row['Tags'].split(",").map(x => x.trim().toLowerCase().replace(/[^a-zA-Z\d-]/g, "-"))
     })
 
     if (!categories.includes(category)) {
