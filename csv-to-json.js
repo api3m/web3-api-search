@@ -50,7 +50,7 @@ for (const row of rows) {
             name: provider,
             url_name: row['Contact'],
             provider_logo_url: row['Logo'],
-            description: row['About Provider'] || row['Description'],
+            description: row['About Provider'] || provider + ' offers the following APIs on Web3:',
             apis: [api]
         }
     }
