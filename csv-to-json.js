@@ -24,6 +24,11 @@ for (const row of rows) {
     const api = row['API Name'] || provider + ' API'
     const category = row['Category/Industry'] || 'Uncategorized'
 
+    let shortDescription = row['Description'].substr(0, 168)
+    if (shortDescription.length < row['Description'].length) {
+        shortDescription += '...'
+    }
+
     apis.push({
         name: api,
         url_name: '',
@@ -33,7 +38,7 @@ for (const row of rows) {
         documentation_url: row['Web2 Docs'],
         airnode_url: row['Airnode Docs'],
         free_access_url: '',
-        short_description: row['Description'].substr(0, 168),
+        short_description: shortDescription,
         description: row['Description'],
         categories: [category],
         tags: row['Tags'].split(",").map(x => x.trim().toLowerCase().replace(/[^a-zA-Z\d-]/g, "-"))
