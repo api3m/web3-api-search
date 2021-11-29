@@ -14,6 +14,8 @@ node csv-to-json.js input/apis.csv
 
 Copy the resulting JSON files in the output folder to the api-listing-data folder in the api3.org website repository.
 
+These commands assume you have the web3-api-search repo and the api3.org repo cloned side by side each other in the same parent folder. If not, modify the commands as needed.
+
 ```
 cp output/* ../api3.org/api-listing-data/
 ```
